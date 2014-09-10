@@ -1,0 +1,21 @@
+{
+    "name": "hsl-live-proxy",
+    "description": "Prototype middleware for translating the HSL vehicle location push API to WebSocket",
+    "version": "0.0.1",
+    "main": "./hsl-live-proxy.js",
+    "author": {
+		"name": "Sam Stenvall",
+		"email": "sam.stenvall@arcada.fi"
+    },
+    "keywords": ["hsl","websocket","websockets"],
+    "licenses": {
+		"type": "MIT"
+    },
+    "repository": {
+		"type": "git",
+		"url": "git://github.com/Jalle19/hsl-live-proxy.git"
+    },
+    "bugs": {
+		"url": "http://github.com/Jalle19/hsl-live-proxy/issues"
+    }
+}
